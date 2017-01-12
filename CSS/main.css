@@ -27,6 +27,11 @@ a:hover {
 	max-width: 750px;
 }
 
+.social {
+	text-align: center;
+	font-size: 10px;
+}
+
 footer {
 	font-size: 10px;
 	background: #ffffff;
