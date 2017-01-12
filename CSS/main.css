@@ -22,7 +22,7 @@ a:hover {
 }
 
 .fa-envelope-o, .fa-twitter, .fa-youtube, .fa-github {
-	color: #ffffff
+	color: #cdd0d6
 }
 
 .about, .social, footer {
@@ -30,6 +30,7 @@ a:hover {
 }
 
 .about {
+	width: 700px
 	margin-bottom: 15px;
 	max-width: 750px;
 }
