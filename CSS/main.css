@@ -25,13 +25,14 @@ a:hover {
 	color: #cdd0d6
 }
 
-.about, .social, footer {
+.bio, .social, footer {
 	text-align: center;
 }
 
 .about {
 	width: 700px
 	margin-bottom: 15px;
+	text-align: left;
 	max-width: 750px;
 }
 
