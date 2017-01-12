@@ -10,3 +10,24 @@ body {
 	font-size: 21px;
 	background: #ecf0f1;
 }
+
+a {
+	color: #EB9136;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #e67e22;
+	border-bottom: 1px dashed #e67e22;
+}
+
+.about {
+	margin-bottom: 15px;
+	text-align: justify;
+	max-width: 750px;
+}
+
+footer {
+	font-size: 10px;
+	background: #ffffff;
+}
