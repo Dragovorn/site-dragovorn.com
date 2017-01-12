@@ -8,16 +8,16 @@
 body {
 	font-family: "Roboto", sans-serif;
 	font-size: 21px;
-	background: #ecf0f1;
+	background: #5d636d;
 }
 
 a {
-	color: #EB9136;
+	color: #960a0a;
 	text-decoration: none;
 }
 
 a:hover {
-	color: #e67e22;
+	color: #c40b0b;
 	border-bottom: 1px dashed #e67e22;
 }
 
@@ -34,5 +34,5 @@ a:hover {
 
 footer {
 	font-size: 10px;
-	background: #ffffff;
+	text-align: center;
 }
