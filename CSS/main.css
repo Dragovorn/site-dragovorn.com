@@ -18,11 +18,11 @@ a {
 
 a:hover {
 	color: #c40b0b;
-	border-bottom: 1px dashed #e67e22;
+	border-bottom: 1px dashed #c40b0b;
 }
 
 .fa-envelope-o, .fa-twitter, .fa-youtube, .fa-github {
-	color: #960a0a
+	color: #ffffff
 }
 
 .about, .social, footer {
