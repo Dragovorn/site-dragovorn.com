@@ -21,18 +21,23 @@ a:hover {
 	border-bottom: 1px dashed #e67e22;
 }
 
+.fa-envelope-o, .fa-twitter, .fa-youtube, .fa-github {
+	color: #960a0a
+}
+
+.about, .social, footer {
+	text-align: center;
+}
+
 .about {
 	margin-bottom: 15px;
-	text-align: justify;
 	max-width: 750px;
 }
 
 .social {
-	text-align: center;
 	font-size: 10px;
 }
 
 footer {
 	font-size: 10px;
-	text-align: center;
 }
