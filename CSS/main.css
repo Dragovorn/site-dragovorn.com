@@ -25,7 +25,9 @@ a:hover {
 	color: #cdd0d6
 }
 
-.bio, .social, footer {
+.bio,
+.social,
+footer {
 	text-align: center;
 }
 
