@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Roboto');
+@import url('https://fonts.googleapis.com/css?family=Roboto:300');
 
 * {
 	margin: auto;
@@ -6,10 +6,14 @@
 }
 
 body {
-	font-family: "Roboto", sans-serif;
+	font-family: 'Roboto', sans-serif;
 	font-size: 21px;
 	background: #5d636d;
-	color: #ffffff
+	color: #ffffff;
+}
+
+h1.name {
+    background-color: #484C54;
 }
 
 a {
@@ -24,6 +28,11 @@ a:hover {
 
 .fa-envelope-o, .fa-twitter, .fa-youtube, .fa-github {
 	color: #cdd0d6
+}
+
+div.social, footer {
+    position: relative;
+    top: 60px;
 }
 
 .bio,
