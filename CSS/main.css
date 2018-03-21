@@ -19,6 +19,7 @@ h1.name {
 a {
 	color: #960a0a;
 	text-decoration: none;
+    font-weight: bold;
 }
 
 a:hover {
